@@ -13,5 +13,4 @@ You are encouraged to use and re-use the information that is available under thi
 
 Licensed under the Open Government Licence v3.0. 
 
-You can view the full license at: 
-https://www.nationalarchives.gov.uk/doc/open-government-licence/version/3/
+You can view the full license at: https://www.nationalarchives.gov.uk/doc/open-government-licence/version/3/
