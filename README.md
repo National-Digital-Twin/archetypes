@@ -163,9 +163,10 @@ This repository has been developed with public funding as part of the National D
 
 ## License  
 This repository contains both source code and documentation, which are covered by different licenses:  
-- **Code:** Originally developed by [Original Developer, if applicable], now maintained by National Digital Twin Programme. Licensed under the [Apache License 2.0](./LICENSE.md).  
-- **Documentation:** Licensed under the [Open Government Licence v3.0](./OGL_LICENCE.md).  
-See `LICENSE.md`, `OGL_LICENCE.md`, and `NOTICE.md` for details.  
+- **Code:** Originally developed by [Original Developer, if applicable], now maintained by National Digital Twin Programme. Licensed under the [Apache License 2.0](./LICENSE.md).
+- **Documentation:** Licensed under the [Open Government Licence v3.0](./OGL_LICENCE.md).
+
+See [`LICENSE.md`](LICENSE.md), [`OGL_LICENCE.md`](OGL_LICENCE.md) and [`NOTICE.md`](NOTICE.md) for details.
 
 ## Security and Responsible Disclosure  
 We take security seriously. If you believe you have found a security vulnerability in this repository, please follow our responsible disclosure process outlined in [`SECURITY.md`](./SECURITY.md).  
@@ -182,3 +183,4 @@ For questions or support, check our Issues or contact the NDTP team on ndtp@busi
 **Maintained by the National Digital Twin Programme (NDTP).**  
 
 © Crown Copyright 2025. This work has been developed by the National Digital Twin Programme and is legally attributed to the Department for Business and Trade (UK) as the governing entity.
+
