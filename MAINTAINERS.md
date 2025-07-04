@@ -48,7 +48,7 @@ If you need to escalate an issue that has not been addressed within a reasonable
 2. **Governance and policy queries** – Contact NDTP at **[ndtp@businessandtrade.gov.uk]**.  
 3. **Urgent operational issues** – If an issue affects critical systems, contact the **Lead Maintainer** listed above.  
 
---
+---
 
 ## Updating this File  
 
@@ -59,7 +59,9 @@ Maintainer details may change over time. If you are an NDTP-approved maintainer 
 **Maintained by the National Digital Twin Programme (NDTP).**  
 
 © Crown Copyright 2025. This work has been developed by the National Digital Twin Programme and is legally attributed to the Department for Business and Trade (UK) as the governing entity.  
+
 Licensed under the Open Government Licence v3.0.  
+
 For full licensing terms, see [OGL_LICENCE.md](./OGL_LICENCE.md).  
 
 <!--

@@ -92,9 +92,7 @@ To maintain high-quality contributions, NDTP enforces the following **minimum pu
 - **PRs should use "squash and merge" as the preferred merge strategy**, ensuring a clean history.  
 - **Feature and bugfix branches should be deleted after merge** to keep the repository tidy.  
 - **Force pushing to the `main` branch is strictly prohibited** to protect repository integrity.  
-- **CI builds must pass before merging** to enforce basic validation checks.  
-
-For further details, see [CONTRIBUTING.md](./CONTRIBUTING.md).   
+- **CI builds must pass before merging** to enforce basic validation checks.
 
 ---
 
@@ -117,7 +115,7 @@ NDTP repository maintainers review reported issues, evaluate documentation sugge
 
 ---
 
-Maintained by the National Digital Twin Programme (NDTP).  
+**Maintained by the National Digital Twin Programme (NDTP).**   
 
 © Crown Copyright 2025. This work has been developed by the National Digital Twin Programme and is legally attributed to the Department for Business and Trade (UK) as the governing entity.  
 Licensed under the Open Government Licence v3.0.  
