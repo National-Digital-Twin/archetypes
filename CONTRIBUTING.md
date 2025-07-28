@@ -1,6 +1,6 @@
 # Contribution Guidelines  
 
-**Repository:** `sbom-aggregation`  
+**Repository:** `[archetypes]`   
 **Description:** `Guidelines for issue reporting, documentation suggestions, and NDTP’s controlled contribution model.`  
 **SPDX-License-Identifier:** `OGL-UK-3.0`  
 
@@ -84,17 +84,15 @@ For more details, refer to [GitFlow Workflow](https://www.atlassian.com/git/tuto
 
 To maintain high-quality contributions, NDTP enforces the following **minimum pull request (PR) requirements** for approved contributors:  
 
-- **All PRs must be reviewed by at least one maintainer** before merging.  
-- **PRs should reference a corresponding issue** where applicable.  
-- **Code changes must include relevant tests** to ensure stability.  
-- **Commit messages should follow best practices**, including referencing issue numbers when relevant.  
-- **Documentation updates should accompany PRs that impact functionality.**  
-- **PRs should use "squash and merge" as the preferred merge strategy**, ensuring a clean history.  
-- **Feature and bugfix branches should be deleted after merge** to keep the repository tidy.  
-- **Force pushing to the `main` branch is strictly prohibited** to protect repository integrity.  
-- **CI builds must pass before merging** to enforce basic validation checks.  
-
-For further details, see [CONTRIBUTING.md](./CONTRIBUTING.md).   
+- **All PRs must be reviewed by at least one maintainer** before merging.
+- **PRs should reference a corresponding issue** where applicable.
+- **Code changes must include relevant tests** to ensure stability.
+- **Commit messages should follow best practices**, including referencing issue numbers when relevant.
+- **Documentation updates should accompany PRs that impact functionality.**
+- **PRs should use "squash and merge" as the preferred merge strategy**, ensuring a clean history.
+- **Feature and bugfix branches should be deleted after merge** to keep the repository tidy.
+- **Force pushing to the `main` branch is strictly prohibited** to protect repository integrity.
+- **CI builds must pass before merging** to enforce basic validation checks.
 
 ---
 
@@ -117,7 +115,7 @@ NDTP repository maintainers review reported issues, evaluate documentation sugge
 
 ---
 
-Maintained by the National Digital Twin Programme (NDTP).  
+**Maintained by the National Digital Twin Programme (NDTP).**
 
 © Crown Copyright 2025. This work has been developed by the National Digital Twin Programme and is legally attributed to the Department for Business and Trade (UK) as the governing entity.  
 
