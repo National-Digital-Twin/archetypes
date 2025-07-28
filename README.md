@@ -168,8 +168,14 @@ This repository contains both source code and documentation, which are covered b
 
 See [`LICENSE.md`](LICENSE.md), [`OGL_LICENCE.md`](OGL_LICENCE.md) and [`NOTICE.md`](NOTICE.md) for details.
 
-## Security and Responsible Disclosure  
+## Security and Responsible Disclosure
 We take security seriously. If you believe you have found a security vulnerability in this repository, please follow our responsible disclosure process outlined in [`SECURITY.md`](./SECURITY.md).  
+
+## Software Bill of Materials (SBOM)
+This project provides a Software Bill of Materials (SBOM) to help users and integrators understand its dependencies.
+
+### Current SBOM
+Download the [latest SBOM for this codebase](../../dependency-graph/sbom) to view the current list of components used in this repository.
 
 ## Contributing  
 We welcome contributions that align with the Programme’s objectives. Please read our [`CONTRIBUTING.md`](./CONTRIBUTING.md) guidelines before submitting pull requests.  
