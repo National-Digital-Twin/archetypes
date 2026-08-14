@@ -56,20 +56,20 @@ All references throughout the files, that refer to the repository name `archetyp
 
 ### 3. Update/Remove all GUIDANCE/EXAMPLE sections
 
-Throughout all the `.md` files are some `GUIDANCE` blocks sometimes also including `EXAMPLE` sections similar that below. 
+Throughout all the `.md` files are some `GUIDANCE` blocks sometimes also including `EXAMPLE` sections similar to that below. 
 
 ```md
 <!-- 
 GUIDANCE: 
  -->
 ```
-These blocks don't appear on previews, the are just intended to help support updating the markdown file content when you first create a new repository and should be fully removed after content has been updated. 
+These blocks don't appear on previews, they are just intended to help support updating the markdown file content when you first create a new repository and should be fully removed after content has been updated. 
 
 ### 4. Pull Requests
 
 Included in this repository is an example [PULL_REQUEST_TEMPLATE.md](./.github/PULL_REQUEST_TEMPLATE.md), which can be used to help prompt specific content to include in pull requests by contributors. 
 
-There are also two basic example rulesets [pr_ruleset_example_default_main.json](./.github/codepolicyexamples/pr_ruleset_example_default_main.json) and [pr_ruleset_example_develop.json](./.github/codepolicyexamples/pr_ruleset_example_default_main.json) that can be used to configure a minimal basic policy for you pull requests. The folder containing these files should be removed on any repositories as these are just for reference examples only. 
+There are also two basic example rulesets [pr_ruleset_example_default_main.json](./.github/codepolicyexamples/pr_ruleset_example_default_main.json) and [pr_ruleset_example_develop.json](./.github/codepolicyexamples/pr_ruleset_example_default_main.json) that can be used to configure a minimal basic policy for your pull requests. The folder containing these files should be removed on any repositories as these are just for reference examples only. 
 
 <!--
 
