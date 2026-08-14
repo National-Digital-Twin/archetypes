@@ -69,7 +69,7 @@ These blocks don't appear on previews, they are just intended to help support up
 
 Included in this repository is an example [PULL_REQUEST_TEMPLATE.md](./.github/PULL_REQUEST_TEMPLATE.md), which can be used to help prompt specific content to include in pull requests by contributors. 
 
-There are also two basic example rulesets [pr_ruleset_example_default_main.json](./.github/codepolicyexamples/pr_ruleset_example_default_main.json) and [pr_ruleset_example_develop.json](./.github/codepolicyexamples/pr_ruleset_example_default_main.json) that can be used to configure a minimal basic policy for you pull requests. The folder containing these files should be removed on any repositories as these are just for reference examples only. 
+There are also two basic example rulesets [pr_ruleset_example_default_main.json](./.github/codepolicyexamples/pr_ruleset_example_default_main.json) and [pr_ruleset_example_develop.json](./.github/codepolicyexamples/pr_ruleset_example_default_main.json) that can be used to configure a minimal basic policy for your pull requests. The folder containing these files should be removed on any repositories as these are just for reference examples only. 
 
 <!--
 
